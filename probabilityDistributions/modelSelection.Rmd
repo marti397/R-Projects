@@ -2,9 +2,7 @@
 title: "Probability Model Selection using R"
 author: "Christopher Martinez Servin"
 date: "8/9/2018"
-output:
-  html_document:
-    df_print: paged
+output: github_document
 ---
 
 This is a simplified guide for selecting and fitting a probability model to a dataset. For detailed information, a good start point is the [Wiki page](https://en.wikipedia.org/wiki/Probability_theory) for *probability theory*.
